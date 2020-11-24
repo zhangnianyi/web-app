@@ -1,0 +1,27 @@
+app:
+  name: "wwb_app"
+  mode: "dev"
+  port: ":8080"
+  starttime: "2020-07-01"
+  machineid: 1
+log:
+  level: "debug"
+  filename: "web_app.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+mysql:
+  host: "118.24.102.88"
+  port: 13306
+  user: "root"
+  password: "root1234"
+  dbname: "bluebell"
+  max_openconn: 200
+  max_idconn: 50
+redis:
+  host: "118.24.102.88"
+  port: 6379
+  db: 0
+  password:
+  poolsize: 100
+

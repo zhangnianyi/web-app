@@ -1,0 +1,134 @@
+{"level":"DEBUG","time":"2020-11-23T17:28:53.515+0800","caller":"web-app/main.go:24","msg":"logger init success"}
+{"level":"ERROR","time":"2020-11-23T17:28:54.181+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"ERROR","time":"2020-11-23T17:28:54.181+0800","caller":"web-app/main.go:28","msg":"init mysql faild err:","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"DEBUG","time":"2020-11-23T17:30:32.376+0800","caller":"web-app/main.go:24","msg":"logger init success"}
+{"level":"ERROR","time":"2020-11-23T17:30:32.944+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"ERROR","time":"2020-11-23T17:30:32.944+0800","caller":"web-app/main.go:28","msg":"init mysql faild err:","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"DEBUG","time":"2020-11-23T17:31:38.601+0800","caller":"web-app/main.go:26","msg":"logger init success"}
+{"level":"ERROR","time":"2020-11-23T17:31:39.211+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"ERROR","time":"2020-11-23T17:31:39.211+0800","caller":"web-app/main.go:30","msg":"init mysql faild err:","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"DEBUG","time":"2020-11-23T17:32:09.182+0800","caller":"web-app/main.go:26","msg":"logger init success"}
+{"level":"ERROR","time":"2020-11-23T17:32:09.745+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"ERROR","time":"2020-11-23T17:32:09.745+0800","caller":"web-app/main.go:30","msg":"init mysql faild err:","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"DEBUG","time":"2020-11-23T17:46:34.816+0800","caller":"web-app/main.go:36","msg":"logger init success"}
+{"level":"ERROR","time":"2020-11-23T17:46:35.464+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"ERROR","time":"2020-11-23T17:46:35.464+0800","caller":"web-app/main.go:40","msg":"init mysql faild err:","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"DEBUG","time":"2020-11-23T17:47:42.002+0800","caller":"web-app/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2020-11-23T17:49:19.607+0800","caller":"web-app/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2020-11-23T17:49:49.997+0800","caller":"web-app/main.go:36","msg":"logger init success"}
+{"level":"DEBUG","time":"2020-11-23T17:51:28.002+0800","caller":"web-app/main.go:36","msg":"logger init success"}
+{"level":"INFO","time":"2020-11-23T17:51:41.221+0800","caller":"Logger/logger.go:65","msg":"/json","status":404,"method":"GET","path":"/json","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-23T17:51:41.505+0800","caller":"Logger/logger.go:65","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-23T17:51:43.946+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-23T17:51:48.045+0800","caller":"web-app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-23T17:51:48.546+0800","caller":"web-app/main.go:83","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-11-24T11:21:48.733+0800","caller":"web-app/main.go:36","msg":"logger init success"}
+{"level":"INFO","time":"2020-11-24T11:22:53.835+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:22:54.009+0800","caller":"Logger/logger.go:65","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:24:44.305+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:07.152+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:07.733+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:07.894+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:10.765+0800","caller":"web-app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T11:27:13.266+0800","caller":"web-app/main.go:83","msg":"Server exiting"}
+{"level":"DEBUG","time":"2020-11-24T11:27:21.666+0800","caller":"web-app/main.go:36","msg":"logger init success"}
+{"level":"INFO","time":"2020-11-24T11:27:23.720+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:24.221+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:24.389+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:24.555+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:24.698+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:24.859+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:25.148+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:34.563+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T11:27:39.548+0800","caller":"web-app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T11:27:40.049+0800","caller":"web-app/main.go:83","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T12:07:01.764+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"ERROR","time":"2020-11-24T12:07:01.811+0800","caller":"web-app/main.go:44","msg":"init mysql faild err:","error":"Error 1049: Unknown database 'sql_demo'"}
+{"level":"ERROR","time":"2020-11-24T12:07:29.751+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1045: Access denied for user 'root123'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:07:29.804+0800","caller":"web-app/main.go:44","msg":"init mysql faild err:","error":"Error 1045: Access denied for user 'root123'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:07:55.846+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1045: Access denied for user 'root1234'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:07:55.896+0800","caller":"web-app/main.go:44","msg":"init mysql faild err:","error":"Error 1045: Access denied for user 'root1234'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:08:25.069+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1045: Access denied for user 'root1234'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:08:25.122+0800","caller":"web-app/main.go:44","msg":"init mysql faild err:","error":"Error 1045: Access denied for user 'root1234'@'222.212.171.139' (using password: YES)"}
+{"level":"INFO","time":"2020-11-24T12:10:03.246+0800","caller":"web-app/main.go:85","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T12:10:03.791+0800","caller":"web-app/main.go:94","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T12:12:27.663+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1045: Access denied for user 'root1234'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:12:27.719+0800","caller":"web-app/main.go:45","msg":"init mysql faild err:","error":"Error 1045: Access denied for user 'root1234'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:13:16.331+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1045: Access denied for user 'root123'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:13:16.384+0800","caller":"web-app/main.go:45","msg":"init mysql faild err:","error":"Error 1045: Access denied for user 'root123'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:13:24.851+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1045: Access denied for user 'root123'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:13:24.900+0800","caller":"web-app/main.go:45","msg":"init mysql faild err:","error":"Error 1045: Access denied for user 'root123'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:13:55.806+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed ","error":"Error 1045: Access denied for user 'root123'@'222.212.171.139' (using password: YES)"}
+{"level":"ERROR","time":"2020-11-24T12:13:55.859+0800","caller":"web-app/main.go:45","msg":"init mysql faild err:","error":"Error 1045: Access denied for user 'root123'@'222.212.171.139' (using password: YES)"}
+{"level":"INFO","time":"2020-11-24T12:14:23.494+0800","caller":"web-app/main.go:86","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T12:14:24.045+0800","caller":"web-app/main.go:95","msg":"Server exiting"}
+{"level":"INFO","time":"2020-11-24T12:14:52.664+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T12:15:44.547+0800","caller":"web-app/main.go:86","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T12:15:45.048+0800","caller":"web-app/main.go:95","msg":"Server exiting"}
+{"level":"INFO","time":"2020-11-24T12:16:00.406+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T12:16:01.138+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T12:16:01.302+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T12:16:07.117+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T12:16:07.636+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T12:16:07.797+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T12:32:55.674+0800","caller":"Logger/logger.go:65","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.26.8","errors":"","cost":0}
+{"level":"INFO","time":"2020-11-24T12:47:24.533+0800","caller":"web-app/main.go:86","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T12:47:25.035+0800","caller":"web-app/main.go:95","msg":"Server exiting"}
+{"level":"INFO","time":"2020-11-24T12:47:41.055+0800","caller":"web-app/main.go:86","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T12:47:41.602+0800","caller":"web-app/main.go:95","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T12:48:51.961+0800","caller":"controllers/user.go:15","msg":"Should BindJSON error","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2020-11-24T12:49:04.699+0800","caller":"controllers/user.go:15","msg":"Should BindJSON error","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"INFO","time":"2020-11-24T12:51:39.302+0800","caller":"web-app/main.go:86","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T12:51:39.804+0800","caller":"web-app/main.go:95","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T12:52:51.235+0800","caller":"controllers/user.go:23","msg":"Should BindJSON error"}
+{"level":"ERROR","time":"2020-11-24T12:52:52.248+0800","caller":"controllers/user.go:23","msg":"Should BindJSON error"}
+{"level":"ERROR","time":"2020-11-24T12:52:57.225+0800","caller":"controllers/user.go:23","msg":"Should BindJSON error"}
+{"level":"ERROR","time":"2020-11-24T12:52:57.831+0800","caller":"controllers/user.go:23","msg":"Should BindJSON error"}
+{"level":"INFO","time":"2020-11-24T13:00:13.414+0800","caller":"web-app/main.go:86","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T13:00:13.914+0800","caller":"web-app/main.go:95","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T13:00:29.261+0800","caller":"controllers/user.go:15","msg":"Should BindJSON error","error":"Key: 'ParamSignup.Password' Error:Field validation for 'Password' failed on the 'required' tag\nKey: 'ParamSignup.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"ERROR","time":"2020-11-24T13:00:42.884+0800","caller":"controllers/user.go:15","msg":"Should BindJSON error","error":"Key: 'ParamSignup.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2020-11-24T13:01:47.938+0800","caller":"web-app/main.go:86","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T13:01:48.438+0800","caller":"web-app/main.go:95","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T13:02:02.124+0800","caller":"controllers/user.go:15","msg":"Should BindJSON error","error":"Key: 'ParamSignup.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2020-11-24T13:20:17.473+0800","caller":"web-app/main.go:86","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T13:20:17.974+0800","caller":"web-app/main.go:95","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T13:20:31.809+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"ERROR","time":"2020-11-24T13:20:32.879+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2020-11-24T13:22:46.086+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T13:22:46.587+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T13:22:59.834+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'required' tag"}
+{"level":"ERROR","time":"2020-11-24T13:23:00.600+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2020-11-24T13:25:47.906+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T13:25:48.408+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T13:25:59.314+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'required' tag"}
+{"level":"ERROR","time":"2020-11-24T13:26:00.109+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2020-11-24T13:27:43.939+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T13:27:44.439+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T13:27:57.251+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2020-11-24T14:05:35.517+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T14:05:36.017+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"INFO","time":"2020-11-24T14:25:24.835+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T14:25:25.386+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T14:26:41.173+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'eqfield' tag"}
+{"level":"ERROR","time":"2020-11-24T14:27:37.510+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'eqfield' tag"}
+{"level":"ERROR","time":"2020-11-24T14:27:52.680+0800","caller":"controllers/user.go:16","msg":"Should BindJSON error","error":"Key: 'ParamSignup.repassword' Error:Field validation for 'repassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2020-11-24T14:28:08.325+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T14:28:08.825+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T15:13:42.167+0800","caller":"controllers/user.go:54","msg":"Should BindJSON  for login error ","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"ERROR","time":"2020-11-24T15:13:48.739+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","error":"sql: no rows in result set"}
+{"level":"ERROR","time":"2020-11-24T15:16:10.929+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","error":"用户登录的密码错误"}
+{"level":"ERROR","time":"2020-11-24T15:17:09.284+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","error":"用户登录的密码错误"}
+{"level":"ERROR","time":"2020-11-24T15:17:43.292+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","error":"用户登录的密码错误"}
+{"level":"INFO","time":"2020-11-24T15:19:16.790+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T15:19:17.291+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T15:19:38.709+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","error":"用户登录的密码错误"}
+{"level":"ERROR","time":"2020-11-24T15:19:43.545+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","error":"sql: no rows in result set"}
+{"level":"INFO","time":"2020-11-24T15:20:50.635+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T15:20:51.135+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T15:21:09.651+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","error":"sql: no rows in result set"}
+{"level":"ERROR","time":"2020-11-24T15:21:17.093+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","error":"用户登录的密码错误"}
+{"level":"INFO","time":"2020-11-24T15:49:43.876+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2020-11-24T15:49:44.376+0800","caller":"web-app/main.go:103","msg":"Server exiting"}
+{"level":"ERROR","time":"2020-11-24T15:50:09.627+0800","caller":"controllers/user.go:70","msg":"logic.Login(&p)","username":"zh123ang","error":"sql: no rows in result set"}
+{"level":"INFO","time":"2020-11-24T17:20:11.376+0800","caller":"web-app/main.go:94","msg":"Shutdown Server ..."}
